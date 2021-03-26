@@ -1,0 +1,2 @@
+# Understanding-Linear-Regression_BostonHousing
+This is a detailed explanation of the understanding of linear regression with Boston Housing Dataset. I have performed detailed checks to know more about the relationship between the variables used in the dataset. Plotted visualizations which gives different intuitions about collinearity and also came up with plotting the best fit line of all important features with the target variable. 
